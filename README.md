@@ -1,2 +1,2 @@
-# Manoj Thilakarathna's CV Management
-This repository primarily focus on create and manage CVs for different job position and keep release versions of each CV to easy manage and efficient use.
+# Manoj Thilakarathna's CV
+This repository primarily focuses on creating and managing CVs for different job positions and keeps released versions of each CV for easy management and efficient use.
